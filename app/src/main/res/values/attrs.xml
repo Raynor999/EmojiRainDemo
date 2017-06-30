@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EmojiRainView">
+        <attr name="perEmojiCount" format="integer" />
+        <attr name="rainDuration" format="integer" />
+        <attr name="dropAvgDuration" format="integer" />
+        <attr name="dropFrequency" format="integer" />
+        <attr name="emojiSize" format="dimension|reference" />
+    </declare-styleable>
+</resources>
